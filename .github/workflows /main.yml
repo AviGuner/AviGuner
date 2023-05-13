@@ -21,13 +21,14 @@ jobs:
       - name: Install dependencies
         run: npm install
           
+          
       - name: Generate the snake
         uses: Platane/snk@v0.5.1
         with:
           github_user_name: AviGuner
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
-
+  
       - name: Push changes
         uses: ad-m/github-push-action@v0.5.0
         with:
