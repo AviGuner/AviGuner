@@ -1,6 +1,6 @@
 
 # 💫 About Me: 
-🔭 I’m working on being always updated.<br>🌱 Every day, I wake up with a burning desire to succeed. As a web developer, I’m actively learning more about Data Science.<br>👯 Collaboration is the key to success, and I am ready to join open source projects <br>📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avi-guner-187953186) <br>⚡ Fun fact:  NO FUN WITHOUT CHALLENGES!!!       
+🔭 I’m always working on staying up to date.<br>🌱 Every day, I wake up with a burning desire to succeed. As a web developer, I’m actively learning more about Data Science.<br>👯 Collaboration is the key to success, and I am ready to join open source projects <br>📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avi-guner-187953186) <br>⚡ Fun fact:  NO FUN WITHOUT CHALLENGES!!!       
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avi-guner-187953186) 
